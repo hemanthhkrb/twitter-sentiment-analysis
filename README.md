@@ -4,4 +4,4 @@
 4. python -m textblob.download_corpora
 5. python main.py
 
-6. open that directory with any code editor
+6. open that directory with any code editor. replace consumer_key, consumer_secret, access_token, access_token_secret with correct values in main.py
